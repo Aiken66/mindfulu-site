@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MindfulU</title>
+</head>
+<body>
+  <https://sites.google.com/view/mindfulu/home>Welcome to MindfulU</https://sites.google.com/view/mindfulu/home>
+  <https://sites.google.com/view/mindfulu/home>Your Google Site content goes here!</https://sites.google.com/view/mindfulu/home>
+</body>
+</html>
